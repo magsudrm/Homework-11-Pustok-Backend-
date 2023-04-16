@@ -2017,11 +2017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maqsud\\Desktop\\HomeworkPustok\\Pustok\\Pustok.csproj",
+      "projectUniqueName": "C:\\Users\\Maqsud\\Desktop\\Backend\\Homeworks\\Homework-11-Pustok-Backend-\\HomeworkPustok\\Pustok\\Pustok.csproj",
       "projectName": "Pustok",
-      "projectPath": "C:\\Users\\Maqsud\\Desktop\\HomeworkPustok\\Pustok\\Pustok.csproj",
+      "projectPath": "C:\\Users\\Maqsud\\Desktop\\Backend\\Homeworks\\Homework-11-Pustok-Backend-\\HomeworkPustok\\Pustok\\Pustok.csproj",
       "packagesPath": "C:\\Users\\Maqsud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maqsud\\Desktop\\HomeworkPustok\\Pustok\\obj\\",
+      "outputPath": "C:\\Users\\Maqsud\\Desktop\\Backend\\Homeworks\\Homework-11-Pustok-Backend-\\HomeworkPustok\\Pustok\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maqsud\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OP05xVkh58sHNKPFg+KLBjhndJfVLfTK8V0uBWygZxC2JDQscmaScogLkDkkjTM/Ayr9lQb+HU93ZzJOO352GQ==",
+  "dgSpecHash": "xVNLxPgOQ4DY0kQBwHBWFcCWltucZqq48BZ/r7Ip4lrhdqiA6FMgs6mCgaGEHwsx6zqve5/LPXozlMh00fMR8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maqsud\\Desktop\\HomeworkPustok\\Pustok\\Pustok.csproj",
+  "projectFilePath": "C:\\Users\\Maqsud\\Desktop\\Backend\\Homeworks\\Homework-11-Pustok-Backend-\\HomeworkPustok\\Pustok\\Pustok.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maqsud\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Maqsud\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
